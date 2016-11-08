@@ -1,0 +1,1 @@
+nunit3-console "C:\Users\garyc\OneDrive\Documents\Visual Studio 2015\Projects\Bundesliga\Bundesliga\bin\Debug\Bundesliga.dll"
